@@ -1,4 +1,4 @@
-# Cicerone
+# Cicerone-demo
 
 > La voce che orienta la tua PMI nell'adozione dell'AI.
 
